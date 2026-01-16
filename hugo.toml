@@ -1,0 +1,63 @@
+baseURL = 'https://personalpannai.guide/'
+title = 'Personal Pannai Guide'
+theme = 'hugo-book'
+
+# Enable multi-language
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+# Book theme settings
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookSection = 'docs'
+  BookRepo = ''
+  BookMenuBundle = '/menu'
+  BookSearch = true
+  BookComments = false
+  BookLogo = '/images/logo.png'
+  BookBrandTitle = 'Personal Pannai'
+  description = 'Complete guide to managing your farm with Personal Pannai app'
+
+# Custom colors
+[params.colors]
+  primary = '#2d5a27'
+  secondary = '#4a7c43'
+
+# Languages
+[languages]
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'content/en'
+    weight = 1
+    title = 'Personal Pannai Guide'
+    [languages.en.params]
+      description = 'Complete guide to managing your farm with Personal Pannai'
+
+  [languages.ta]
+    languageName = 'தமிழ்'
+    contentDir = 'content/ta'
+    weight = 2
+    title = 'பர்சனல் பண்ணை வழிகாட்டி'
+    [languages.ta.params]
+      description = 'பர்சனல் பண்ணை செயலியுடன் உங்கள் பண்ணையை நிர்வகிக்க முழு வழிகாட்டி'
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+
+# Menu
+[menu]
+  [[menu.after]]
+    name = 'Download App'
+    url = '#'
+    weight = 1
+
+# Outputs
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
