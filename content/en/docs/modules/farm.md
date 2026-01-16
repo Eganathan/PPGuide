@@ -5,7 +5,7 @@ weight: 0
 
 # Farm Module
 
-Create and manage your farm profile. The Farm module is the foundation of Personal Pannai, where you set up your farm details and manage overall farm-level activities.
+Create and manage your farm profile. The Farm module is the foundation of Pannai, where you set up your farm details and manage overall farm-level activities.
 
 ## Key Features
 

@@ -145,13 +145,23 @@ View, download, and analyze your expense data with built-in reports. Reports can
 | **Global Level** | Home → Expenses → Report | All expenses across the farm |
 | **Global Level** | Home → Reports → Farm Expense Report | All expenses across the farm |
 
+### Season-Specific Reports (Crops)
+
+For crops, you can view and download expense reports for a specific season:
+
+1. **Method 1:** Crops → [Specific Crop] → Select Season → Report
+2. **Method 2:** Crops → [Specific Crop] → Select Season → Expenses → Report
+
+The selected season filters all data shown, so the report will only include expenses from that season.
+
 ### Report Features
 
 - **View** - See expense summaries and breakdowns on screen
 - **Download PDF** - Get a formatted report for printing or sharing
 - **Download CSV** - Export raw data for spreadsheet analysis
+- **Season-specific** - Filter by season to compare costs across crop cycles
 
-> **Tip:** Use module-level reports to analyze costs for a specific crop or livestock. Use global reports to see overall farm expenditure.
+> **Tip:** Use season-specific reports to compare expenses across different growing periods and identify cost-saving opportunities.
 
 ---
 

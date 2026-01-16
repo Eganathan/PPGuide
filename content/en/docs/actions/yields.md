@@ -131,6 +131,15 @@ View, download, and analyze your yield data with built-in reports. Reports can b
 | **Global Level** | Home → Reports → Crop Yield Report | All crop yields across the farm |
 | **Global Level** | Home → Reports → Livestock Yield Report | All livestock yields across the farm |
 
+### Season-Specific Reports (Crops)
+
+For crops, you can view and download yield reports for a specific season:
+
+1. **Method 1:** Crops → [Specific Crop] → Select Season → Report
+2. **Method 2:** Crops → [Specific Crop] → Select Season → Yields → Report
+
+The selected season filters all data shown, so the report will only include yields from that season.
+
 ### Why Separate Yield Reports?
 
 Unlike Income and Expenses, Yields have **two separate global reports** - one for Crops and one for Livestock. This separation avoids confusion since:
@@ -144,8 +153,9 @@ Having separate reports makes it easier to analyze production data for each cate
 - **View** - See yield summaries and production trends on screen
 - **Download PDF** - Get a formatted report for printing or sharing
 - **Download CSV** - Export raw data for spreadsheet analysis
+- **Season-specific** - Filter by season to compare production across crop cycles
 
-> **Tip:** Use module-level reports to track production for a specific crop or livestock. Use global reports to compare yields across all crops or all livestock.
+> **Tip:** Use season-specific reports to compare yields across different growing periods and identify your most productive seasons.
 
 ---
 

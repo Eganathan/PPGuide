@@ -6,7 +6,7 @@ bookCollapseSection: true
 
 # Frequently Asked Questions
 
-Find answers to common questions about Personal Pannai, organized by topic.
+Find answers to common questions about Pannai, organized by topic.
 
 ## Quick Links
 
@@ -24,15 +24,15 @@ Find answers to common questions about Personal Pannai, organized by topic.
 ## General Questions
 
 <details>
-<summary><strong>What is Personal Pannai?</strong></summary>
+<summary><strong>What is Pannai?</strong></summary>
 
-Personal Pannai is a comprehensive farm management app that helps you track crops, livestock, machinery, inventory, and finances. "Pannai" means "farm" in Tamil.
+Pannai is a comprehensive farm management app that helps you track crops, livestock, machinery, inventory, and finances. "Pannai" means "farm" in Tamil.
 </details>
 
 <details>
 <summary><strong>What modules are available?</strong></summary>
 
-Personal Pannai includes modules for:
+Pannai includes modules for:
 - **Farm** - Create and manage your farm profile
 - **Crops** - Track planting to harvest
 - **Fields** - Manage land and crop rotation

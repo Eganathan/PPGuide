@@ -9,6 +9,12 @@ Quick access to all documentation pages, modules, actions, and features.
 
 ---
 
+## Why Pannai?
+
+- [From Guessing to Knowing: A Farmer's Journey](/en/docs/why-pannai/) - See how tracking transforms farming
+
+---
+
 ## Getting Started
 
 - [Getting Started Guide](/en/docs/getting-started/) - Download, setup, and onboarding
@@ -103,4 +109,4 @@ Activities you perform on modules:
 
 ## Download
 
-[Get Personal Pannai on Google Play →](https://play.google.com/store/apps/details?id=com.marudham.farmmanagement)
+[Get Pannai on Google Play →](https://play.google.com/store/apps/details?id=com.marudham.farmmanagement)

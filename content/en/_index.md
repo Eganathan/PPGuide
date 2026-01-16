@@ -1,11 +1,13 @@
 ---
-title: "Personal Pannai Guide"
+title: "Pannai Guide"
 type: docs
 ---
 
-# Welcome to Personal Pannai
+# Welcome to Pannai
 
-Your complete farm management companion. Personal Pannai helps you track crops, livestock, machinery, inventory, and finances all in one app.
+Your complete farm management companion. Pannai helps you track crops, livestock, machinery, inventory, and finances all in one app.
+
+> **New to farm tracking?** Read [From Guessing to Knowing: A Farmer's Journey](/en/docs/why-pannai/) to see how data transforms farming.
 
 ---
 
@@ -45,7 +47,7 @@ Manage all your farm inputs including seeds, fertilizers, pesticides, fuel, and 
 
 ## Getting Started
 
-New to Personal Pannai? Follow these steps:
+New to Pannai? Follow these steps:
 
 1. **Set Up Your Farm** - Create your farm profile with basic details
 2. **Add Your Fields** - Register all your agricultural fields
@@ -71,7 +73,7 @@ New to Personal Pannai? Follow these steps:
 
 ## Download the App
 
-[Get Personal Pannai on Google Play →](https://play.google.com/store/apps/details?id=com.marudham.farmmanagement)
+[Get Pannai on Google Play →](https://play.google.com/store/apps/details?id=com.marudham.farmmanagement)
 
 Visit our official website: [pannai.marutham.com](https://pannai.marutham.com)
 

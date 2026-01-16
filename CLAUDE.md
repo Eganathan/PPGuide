@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is the documentation site for **Personal Pannai** (PPG - Personal Pannai Guide), a farm management mobile app. The documentation is built with Hugo using the hugo-book theme.
+This is the documentation site for **Pannai** (PPG - Pannai Guide), a farm management mobile app. The documentation is built with Hugo using the hugo-book theme.
 
 ---
 
@@ -10,8 +10,8 @@ This is the documentation site for **Personal Pannai** (PPG - Personal Pannai Gu
 
 | Item | Value |
 |------|-------|
-| **App Name** | Personal Pannai |
-| **Site Name** | PPG (Personal Pannai Guide) |
+| **App Name** | Pannai |
+| **Site Name** | PPG (Pannai Guide) |
 | **Play Store** | https://play.google.com/store/apps/details?id=com.marudham.farmmanagement |
 | **Official Website** | https://pannai.marutham.com |
 | **Terms of Service** | https://pannai.marutham.com/terms |

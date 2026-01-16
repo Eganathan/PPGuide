@@ -14,6 +14,18 @@
                 href="http://localhost:1313/ta/docs/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ta/docs/getting-started/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/docs/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="http://localhost:1313/ta/docs/getting-started/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ta/categories/</loc>
     <xhtml:link
                 rel="alternate"

@@ -4,14 +4,14 @@ weight: 1
 bookFlatSection: true
 ---
 
-# Personal Pannai Documentation
+# Pannai Documentation
 
-Welcome to the complete documentation for Personal Pannai. Use the navigation menu to explore different sections.
+Welcome to the complete documentation for Pannai. Use the navigation menu to explore different sections.
 
 ## Sections
 
 ### [Getting Started]({{< relref "/docs/getting-started" >}})
-New to Personal Pannai? Start here to set up your farm and learn the basics.
+New to Pannai? Start here to set up your farm and learn the basics.
 
 ### [Modules]({{< relref "/docs/modules" >}})
 Detailed guides for Crops, Fields, Livestock, Machines, Inventory, Contacts, and Roles.

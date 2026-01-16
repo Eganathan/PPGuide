@@ -4,14 +4,30 @@ weight: 1
 bookCollapseSection: true
 ---
 
-# Getting Started with Personal Pannai
+# Getting Started with Pannai
 
 Follow these steps to set up your farm and start tracking your agricultural activities.
+
+---
+
+## Why Track Your Farm?
+
+Before you begin, discover why thousands of farmers are switching from memory to data.
+
+> **Ramu** farms without tracking — he works hard but can't explain where his money goes or why some seasons fail.
+>
+> **Selvam** uses Pannai — he knows his exact profit, which buyer pays best, and what made this season better than last.
+>
+> Same land. Same crops. Very different results.
+
+[Read the full story: From Guessing to Knowing →](/en/docs/why-pannai/)
+
+---
 
 ## Quick Setup Guide
 
 ### Step 1: Download the App
-Get Personal Pannai from the Google Play Store.
+Get Pannai from the Google Play Store.
 
 [Download on Google Play →](https://play.google.com/store/apps/details?id=com.marudham.farmmanagement)
 

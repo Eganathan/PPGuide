@@ -86,13 +86,23 @@ View, download, and analyze your income data with built-in reports. Reports can 
 | **Global Level** | Home → Income → Report | All income across the farm |
 | **Global Level** | Home → Reports → Farm Income Report | All income across the farm |
 
+### Season-Specific Reports (Crops)
+
+For crops, you can view and download income reports for a specific season:
+
+1. **Method 1:** Crops → [Specific Crop] → Select Season → Report
+2. **Method 2:** Crops → [Specific Crop] → Select Season → Income → Report
+
+The selected season filters all data shown, so the report will only include income from that season.
+
 ### Report Features
 
 - **View** - See income summaries and breakdowns on screen
 - **Download PDF** - Get a formatted report for printing or sharing
 - **Download CSV** - Export raw data for spreadsheet analysis
+- **Season-specific** - Filter by season to compare income across crop cycles
 
-> **Tip:** Use module-level reports to analyze revenue for a specific crop or livestock. Use global reports to see overall farm income.
+> **Tip:** Use season-specific reports to compare income across different growing periods and identify your most profitable seasons.
 
 ---
 

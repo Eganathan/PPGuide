@@ -6,7 +6,7 @@ bookCollapseSection: true
 
 # Farm Modules
 
-Personal Pannai organizes your farm data into modules. Each module focuses on a specific aspect of your farming operation.
+Pannai organizes your farm data into modules. Each module focuses on a specific aspect of your farming operation.
 
 ## Available Modules
 
@@ -23,7 +23,7 @@ Personal Pannai organizes your farm data into modules. Each module focuses on a 
 
 ## How Modules Work Together
 
-Modules in Personal Pannai are interconnected:
+Modules in Pannai are interconnected:
 
 - **Farm** is the central hub containing **Fields**, **Crops**, **Livestock**, **Machines**, and **Inventory**
 - **Crops** link to **Fields** to track which areas are being cultivated
