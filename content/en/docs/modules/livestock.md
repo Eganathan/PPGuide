@@ -36,6 +36,20 @@ Track milk production, egg collection, or other yields. Individual tracking allo
 
 ---
 
+## Yield Units by Purpose
+
+The "Raised For" purpose determines how yields are measured:
+
+| Raised For | Yield Unit | Example |
+|------------|------------|---------|
+| **Dairy/Milk** | Liters | 15 Liters of milk per day |
+| **Egg** | Units | 120 eggs collected |
+| **Meat** | Kg | 25 Kg of meat |
+| **Breeding** | Heads/Units | 2 calves born |
+| **Others** | Kg | Default weight measurement |
+
+---
+
 ## Individual Tracking for Dairy Cattle
 
 Individual tracking allows you to create detailed records for each animal in your dairy herd.
@@ -82,6 +96,24 @@ Individual tracking is available only when:
 | **Notes** | Record health observations, behavioral changes, breeding notes | All livestock |
 | **Yields** | Track milk production, egg collection, or other outputs | All livestock |
 | **Documents** | Store vaccination records, purchase documents, health reports | All livestock |
+
+---
+
+## Reports
+
+Each livestock entry has a dedicated report available at the bottom of the livestock summary screen.
+
+### Accessing Livestock Report
+
+Navigate to: **Livestock → [Specific Entry] → Report** (at bottom of summary)
+
+### Report Features
+
+- **View** - See complete livestock summary including income, expenses, yields, and profitability
+- **Download PDF** - Get a formatted report for printing or sharing
+- **Download CSV** - Export raw data for spreadsheet analysis
+
+This module-level report combines all data for that specific livestock entry in one place, making it easy to analyze performance and profitability.
 
 ---
 

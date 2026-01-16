@@ -11,20 +11,35 @@ Your complete farm management companion. Personal Pannai helps you track crops, 
 
 ## Core Modules
 
-### Crops & Fields
-Track your crops from planting to harvest. Manage multiple seasons, monitor growth stages, and associate crops with specific fields.
+### Farm
+Create and manage your farm profile. Set up farm details, manage team members, and track farm-level expenses and activities.
+
+[Learn about Farm →](/en/docs/modules/farm/)
+
+### Crops
+Track your crops from planting to harvest. Manage multiple seasons, monitor growth stages, and record all related activities throughout each season.
 
 [Learn about Crops →](/en/docs/modules/crops/)
+
+### Fields
+Manage your agricultural fields and track their usage history. Associate fields with crops, maintain crop rotation records, and store field-specific activities.
+
+[Learn about Fields →](/en/docs/modules/fields/)
 
 ### Livestock
 Manage cattle, poultry, goats, sheep, and pigs. Track individually for dairy cattle or manage as groups.
 
 [Learn about Livestock →](/en/docs/modules/livestock/)
 
-### Machinery & Inventory
-Monitor your tractors, implements, and all farm inputs like seeds, fertilizers, and fuel.
+### Machines
+Track your tractors, implements, and other farm equipment. Record usage reports and maintain service schedules.
 
 [Learn about Machines →](/en/docs/modules/machines/)
+
+### Inventory
+Manage all your farm inputs including seeds, fertilizers, pesticides, fuel, and spare parts. Track stock levels and link usage to expenses.
+
+[Learn about Inventory →](/en/docs/modules/inventory/)
 
 ---
 
@@ -54,6 +69,18 @@ New to Personal Pannai? Follow these steps:
 
 ---
 
+## Download the App
+
+[Get Personal Pannai on Google Play →](https://play.google.com/store/apps/details?id=com.marudham.farmmanagement)
+
+Visit our official website: [pannai.marutham.com](https://pannai.marutham.com)
+
+---
+
 ## Need Help?
 
 Browse our [FAQ section](/en/docs/faq/) for answers to common questions, or explore the detailed guides for each module.
+
+For support, contact us at **support@marutham.com**
+
+[Terms of Service](https://pannai.marutham.com/terms) | [Privacy Policy](https://pannai.marutham.com/privacy)

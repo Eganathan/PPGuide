@@ -2,88 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:62206/en/docs/modules/crops/</loc>
+    <loc>http://localhost:1313/en/docs/modules/crops/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/</loc>
+    <loc>http://localhost:1313/en/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="http://localhost:62206/ta/docs/"
+                href="http://localhost:1313/ta/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:62206/en/docs/"
+                href="http://localhost:1313/en/docs/"
                 />
   </url><url>
-    <loc>http://localhost:62206/en/docs/getting-started/</loc>
+    <loc>http://localhost:1313/en/docs/getting-started/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/actions/income/</loc>
+    <loc>http://localhost:1313/en/docs/actions/income/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/actions/expenses/</loc>
+    <loc>http://localhost:1313/en/docs/modules/crops/seasons/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/modules/fields/</loc>
+    <loc>http://localhost:1313/en/docs/actions/expenses/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/modules/</loc>
+    <loc>http://localhost:1313/en/docs/modules/fields/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/actions/</loc>
+    <loc>http://localhost:1313/en/docs/modules/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/modules/livestock/</loc>
+    <loc>http://localhost:1313/en/docs/actions/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/actions/tasks/</loc>
+    <loc>http://localhost:1313/en/docs/modules/livestock/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/faq/</loc>
+    <loc>http://localhost:1313/en/docs/actions/tasks/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/modules/machines/</loc>
+    <loc>http://localhost:1313/en/docs/faq/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/actions/notes/</loc>
+    <loc>http://localhost:1313/en/docs/modules/machines/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/modules/inventory/</loc>
+    <loc>http://localhost:1313/en/docs/actions/notes/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/actions/yields/</loc>
+    <loc>http://localhost:1313/en/docs/modules/inventory/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/modules/contacts/</loc>
+    <loc>http://localhost:1313/en/docs/actions/yields/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/actions/documents/</loc>
+    <loc>http://localhost:1313/en/docs/modules/contacts/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/actions/animals/</loc>
+    <loc>http://localhost:1313/en/docs/actions/documents/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/docs/modules/roles/</loc>
+    <loc>http://localhost:1313/en/docs/actions/animals/</loc>
   </url><url>
-    <loc>http://localhost:62206/en/categories/</loc>
+    <loc>http://localhost:1313/en/docs/modules/roles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/docs/sitemap/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="http://localhost:62206/ta/categories/"
+                href="http://localhost:1313/ta/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:62206/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:62206/en/</loc>
+    <loc>http://localhost:1313/en/docs/modules/farm/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="http://localhost:62206/ta/"
+                href="http://localhost:1313/ta/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:62206/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:62206/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="http://localhost:62206/ta/tags/"
+                href="http://localhost:1313/ta/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:62206/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

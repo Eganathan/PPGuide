@@ -48,13 +48,22 @@ Items that are purchased and consumed during farming operations.
 **Transactions:** Added, Used, Reversal
 
 ### Producibles
-Items that are produced on the farm, like harvested yields.
+Items that are produced on the farm, like harvested yields. These are manually added to inventory after recording yields.
 
 | Category | Description |
 |----------|-------------|
 | **Yield** | Harvested produce stored in inventory before sale |
 
 **Transactions:** Produced, Sold, Reversal
+
+> **Important:** Recording a yield in the Yields action does NOT automatically add to inventory. You must manually create a Yield inventory item and add the saleable quantity. This is because not all produced yield is fit for sale - some may be spoilt, damaged, or kept for personal use.
+
+### Yield to Income Workflow
+
+1. **Record Yield** - Track total harvest/production in Crops or Livestock
+2. **Create Yield Inventory** - Create an inventory item with "Yield" category
+3. **Add Produced Quantity** - Use "Produced" transaction to add saleable stock
+4. **Link to Income** - When selling, associate this inventory with the Income record
 
 ---
 

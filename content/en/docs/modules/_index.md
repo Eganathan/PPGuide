@@ -12,6 +12,7 @@ Personal Pannai organizes your farm data into modules. Each module focuses on a 
 
 | Module | Description |
 |--------|-------------|
+| [Farm]({{< relref "/docs/modules/farm" >}}) | Create and manage your farm profile and farm-level activities |
 | [Crops]({{< relref "/docs/modules/crops" >}}) | Track crops from planting to harvest with season management |
 | [Fields]({{< relref "/docs/modules/fields" >}}) | Manage your agricultural fields and crop rotation history |
 | [Livestock]({{< relref "/docs/modules/livestock" >}}) | Manage cattle, poultry, goats, sheep, pigs with optional individual tracking |
@@ -24,6 +25,7 @@ Personal Pannai organizes your farm data into modules. Each module focuses on a 
 
 Modules in Personal Pannai are interconnected:
 
+- **Farm** is the central hub containing **Fields**, **Crops**, **Livestock**, **Machines**, and **Inventory**
 - **Crops** link to **Fields** to track which areas are being cultivated
 - **Expenses** on any module can link to **Machines** and **Inventory** items
 - **Contacts** automatically track purchases and sales across modules

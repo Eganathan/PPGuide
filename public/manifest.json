@@ -1,6 +1,6 @@
 {
-  "name": "Personal Pannai Guide",
-  "short_name": "Personal Pannai Guide",
+  "name": "PPG",
+  "short_name": "PPG",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

@@ -10,6 +10,7 @@ Find answers to common questions about Personal Pannai, organized by topic.
 
 ## Quick Links
 
+- [Farm FAQ](/en/docs/modules/farm/#frequently-asked-questions)
 - [Crops FAQ](/en/docs/modules/crops/#frequently-asked-questions)
 - [Fields FAQ](/en/docs/modules/fields/#frequently-asked-questions)
 - [Livestock FAQ](/en/docs/modules/livestock/#frequently-asked-questions)
@@ -32,6 +33,7 @@ Personal Pannai is a comprehensive farm management app that helps you track crop
 <summary><strong>What modules are available?</strong></summary>
 
 Personal Pannai includes modules for:
+- **Farm** - Create and manage your farm profile
 - **Crops** - Track planting to harvest
 - **Fields** - Manage land and crop rotation
 - **Livestock** - Track cattle, poultry, goats, sheep, pigs
@@ -104,4 +106,4 @@ If they already own their own farm, they need to delete their farm first, then r
 If you can't find an answer to your question, try:
 1. Checking the specific module's FAQ section
 2. Reading through the detailed module guides
-3. Contacting support through the app
+3. Contact us at **support@marutham.com**

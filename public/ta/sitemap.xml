@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:62206/ta/docs/</loc>
+    <loc>http://localhost:1313/ta/docs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:62206/en/docs/"
+                href="http://localhost:1313/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="http://localhost:62206/ta/docs/"
+                href="http://localhost:1313/ta/docs/"
                 />
   </url><url>
-    <loc>http://localhost:62206/ta/categories/</loc>
+    <loc>http://localhost:1313/ta/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:62206/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="http://localhost:62206/ta/categories/"
+                href="http://localhost:1313/ta/categories/"
                 />
   </url><url>
-    <loc>http://localhost:62206/ta/tags/</loc>
+    <loc>http://localhost:1313/ta/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:62206/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="http://localhost:62206/ta/tags/"
+                href="http://localhost:1313/ta/tags/"
                 />
   </url><url>
-    <loc>http://localhost:62206/ta/</loc>
+    <loc>http://localhost:1313/ta/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:62206/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="http://localhost:62206/ta/"
+                href="http://localhost:1313/ta/"
                 />
   </url>
 </urlset>

@@ -404,3 +404,55 @@ body {
     padding: 0;
   }
 }
+
+// Download App CTA Button - Green highlighted
+.book-menu nav ul li a.cta-download {
+  display: block;
+  background-color: #1a6b3a;
+  color: #ffffff !important;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-align: center;
+  margin: 1rem 0;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background-color: #0d4a26;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(26, 107, 58, 0.3);
+    padding-left: 1rem !important;
+  }
+}
+
+// Public links section (Terms, Privacy, etc.)
+.public-links-section {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e9ecef;
+  font-size: 0.85rem;
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+    }
+
+    a {
+      color: #6c757d !important;
+      padding: 0.25rem 0 !important;
+
+      &:hover {
+        color: #1a6b3a !important;
+        background: transparent !important;
+        padding-left: 0 !important;
+      }
+    }
+  }
+}

@@ -1,6 +1,7 @@
 ---
 title: "Crops"
 weight: 1
+bookCollapseSection: true
 ---
 
 # Crops Module
@@ -17,6 +18,8 @@ Track your crop through 7 stages: Preparation, Seeding, Growing, Fruiting, Harve
 
 ### Season Management
 Create seasons to organize activities by crop cycle. For perennial crops, new seasons are prompted automatically when the crop is marked as sold.
+
+[Learn more about Seasons →]({{< relref "/docs/modules/crops/seasons" >}})
 
 ### Field Association
 Link crops to specific fields to track which areas are in use. Fields are automatically released based on crop type and stage.
@@ -59,6 +62,25 @@ Perennial crops continue across multiple seasons. When marked as **Sold**, the c
 | **Notes** | Record observations about crop health, weather conditions, pest sightings, or any important information. |
 | **Yields** | Record harvest quantities and quality metrics to track productivity across seasons. |
 | **Documents** | Attach photos, receipts, certificates, or any relevant documents to your crop records. |
+
+---
+
+## Reports
+
+Each crop has a dedicated report available at the bottom of the crop summary screen.
+
+### Accessing Crop Report
+
+Navigate to: **Crops → [Specific Crop] → Report** (at bottom of summary)
+
+### Report Features
+
+- **View** - See complete crop summary including income, expenses, yields, and profitability
+- **Download PDF** - Get a formatted report for printing or sharing
+- **Download CSV** - Export raw data for spreadsheet analysis
+- **Season-specific** - Filter reports by season to compare performance across different crop cycles
+
+This module-level report combines all data for that specific crop in one place, making it easy to analyze performance and profitability per crop and per season.
 
 ---
 
